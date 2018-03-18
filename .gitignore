@@ -1,0 +1,15 @@
+### Node ###
+node_modules/
+npm-debug.log*
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### macOS ###
+*.DS_Store
+
+dist/*
